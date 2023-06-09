@@ -13,5 +13,5 @@ These notebooks cover
 ## Launching in Binder
 To launch the tutorial in Binder, [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CSlocumWX/ats_reu_sandbox/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FCSlocumWX%252Fats_reu_python_tutorial%26urlpath%3Dlab%252Ftree%252Fats_reu_python_tutorial%252F%26branch%3Dmain)
 
-> **alert#9a6700;Warning**
+> **Warning:**
 > If you go through the tutorial material using Binder, your changes will not be saved unless you download the notebooks before exiting your browser tab.
