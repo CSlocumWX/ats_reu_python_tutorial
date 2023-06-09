@@ -2,7 +2,7 @@
 
 This repo contains a handful of Python Jupyter Notebooks for covering basic scientific programming in Python. This material was created as part of a tutorial for the <a href="https://www.atmos.colostate.edu/ATS_REU/">CSU Dept. of Atmospheric Science NSF Research Experience for Undergraduates Site in Earth System Science program</a>.
 
-## Output
+## Outline
 These notebooks cover
 
  0. Basics of using Jupyter Notebooks and the terminal
